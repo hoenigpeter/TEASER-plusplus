@@ -8,6 +8,7 @@
 
 #include "teaser/graph.h"
 #include "pmc/pmc.h"
+#include <vector>
 
 vector<int> teaser::MaxCliqueSolver::findMaxClique(teaser::Graph graph) {
 
